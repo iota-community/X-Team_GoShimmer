@@ -4,7 +4,7 @@
     <img src="https://media.iota.works/IOTA_Logo/Black/IOTA_Logo_black_100px.png"/>
   </a>
 </p>
-<h1 align="center"><a href="https://www.iota.org">GoShimmer Initiative</a></h1>
+<h1 align="center"><a href="https://www.iota.org">IOTA GoShimmer Initiative</a></h1>
 
 <p align="center">The IOTA GoShimmer Initiative is aimed to provide help, guidance, and spotlight to the IOTA Nodes Operators Community.</p>
 
