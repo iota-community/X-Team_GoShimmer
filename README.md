@@ -40,7 +40,7 @@ The GoShimmer node software is in its alpha implementation. We are currently foc
 
 Quality Assurance/Review goal includes making sure that the tools have no obvious bugs or pitfalls that might turn node operators off from trying further once they run into them, make sure that the provided examples are clear and work for the most common use cases the release is aimed at.
 
-> [Discuss the work-in-progress ideas for quality assurance/review here →]
+> [ ] [GoShimmer nodes awareness program (A)](https://github.com/iota-community/GoShimmer/issues/1)
 
 ### Documentation
 
@@ -52,13 +52,13 @@ Documentaion goal includes everything related to writing, curating, and sharing 
 
 Tools development goal includes automation scripts and management tools to kick start GoShimmer node operators in setting up and operate GoShimmer nodes.
 
-> [Discuss the work-in-progress ideas for tools development here →]
+> [ ] [Seamless GoShimmer and DRAND implementation for node operators (B)](https://github.com/iota-community/GoShimmer/issues/2)
 
 ###  Improvements to module
 
 Improvements to module goal includes supporting the IOTA Foundation GoShimmer developers in testing modules, actively participate in network testing and managing modules on the GoShimmer nodes.
 
-> [Discuss the work-in-progress ideas for improvements to module/libraries here →](
+> [ ] [GoShimmer X-Team Community Network (B)](https://github.com/iota-community/GoShimmer/issues/3)
 
 ## 🤔 How Can You Get Involved?
 
