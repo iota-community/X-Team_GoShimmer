@@ -17,7 +17,7 @@ Insert a goal description
 1. - [ ] Three
 
 # Team
-IOTA Streams - IOTA Experience Team
+GoShimmer - IOTA Experience Team
 
 ## Contributors
 ### X-Team members
